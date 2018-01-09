@@ -111,4 +111,4 @@ This includes the time stamp, the source IP address, the query name or IP, as we
 
 # Rules sets
 
-Ready-to-use rules sets are available: [Blacklists](../blob/master/Blacklists.md).
+Ready-to-use rules sets are available: [Blacklists](../master/Blacklists.md).
